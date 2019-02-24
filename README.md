@@ -6,7 +6,7 @@ Well, just install vim first if you haven't
 sudo apt install vim  
 Then, put all these files under your home folder: 
 cd ~  
-git clone ...  
+git clone https://github.com/evilcoder13/vimcfg.git  
 Install youcompleteme if you want:  
 cd ~/.vim/bundle/YouCompleteMe/ 
 python3 install.py -all  
